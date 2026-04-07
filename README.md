@@ -7,6 +7,8 @@ Aegis Perception Scout is designed to take a messy e-commerce search term (e.g.,
 
 If Amazon's anti-bot protections block the scraper, the system degrades gracefully by executing intelligent DuckDuckGo search fallbacks to rebuild the context so the pipeline continues to succeed.
 
+Preseentation Slides - [Datathon_Team_UB](https://docs.google.com/presentation/d/1lBWxlehAVeHtb3YF99FxSpKUpDQoBYip/edit?usp=sharing&ouid=106915806088206113312&rtpof=true&sd=true)
+
 ---
 
 ## 🏗️ Architecture
