@@ -1,0 +1,112 @@
+{
+  "scrape_metadata": {
+    "scrape_id": "intel_1773504803",
+    "timestamp_utc": "2026-03-14T16:13:23Z",
+    "target_url": "https://www.amazon.com/ASUS-DisplayPort-2-5-Slot-Axial-tech-Technology/dp/B0F8PR9L3X/ref=sr_1_3?_encoding=UTF8&dib=eyJ2IjoiMSJ9.MujdblQ2aVhoWDRGlgnbwwrVGaK_A7uopkL68wR6y8tmprNs23FPEGjOdKCVqDX5jweHd1Zzr1zbSKBCjLMHopFc17ah6Jth4WpKwa-1ZgK000qIM9GC2fr-81Q4jY5CiNrCi6IYW3W_5nwf7T24M_9VZ-Jig5lXlZTzR0OawogwN5XTdp0R52YnHIYK6z-KWSkJO0PUe029SWZfuiaVzSjeZaaQASgr2OWhcsiCJRI.OphKTf6tcoLopHiRZCE-udglkq6bePovIbkuVOUVIkw&dib_tag=se&keywords=graphics%2Bcards&qid=1773474116&sr=8-3&th=1"
+  },
+  "1_pricing_signals": {
+    "title": "ASUS Dual GeForce RTX\u2122 5060 8GB GDDR7 OC Edition (PCIe 5.0, 8GB GDDR7, DLSS 4, HDMI 2.1b, DisplayPort 2.1b, 2.5-Slot Design, Axial-tech Fan Design, 0dB Technology, and More)",
+    "asin": "B0F8PR9L3X",
+    "current_price": 34247.01,
+    "original_price": null,
+    "price_drop_pct": null,
+    "currency": "INR",
+    "inventory_estimate": "Medium",
+    "availability": "in stock"
+  },
+  "2_sentiment_signals": {
+    "aggregate_rating": 4.6,
+    "total_reviews": 299,
+    "positive_themes": [
+      "Excellent performance/upgrade value",
+      "Compact design suitable for SFF builds",
+      "Quiet and efficient cooling",
+      "Stable operation in gaming and AI tasks",
+      "Build quality"
+    ],
+    "negative_themes": [
+      "Insufficient VRAM (8GB limitation)",
+      "Audio crackling/distortion issues",
+      "Freezing and black screen reports",
+      "Potential for dead-on-arrival/faulty units"
+    ],
+    "recent_critical_reviews": [
+      {
+        "date": "Not specified",
+        "rating": 3,
+        "body": "over the past month, since Christmas, the freezing and black screen problems have become unbearable ...."
+      },
+      {
+        "date": "December 2, 2025",
+        "rating": 4,
+        "body": "One more thing to note is that I have experienced a very irritating audio crackle when the sampling rate is 44khz or above. If you drop it to 32khz the crackling is gone but that is also not acceptable."        
+      },
+      {
+        "date": "Not specified",
+        "rating": 2,
+        "body": "It had the same problem, distorted audio . Once again, I looked for solutions online...."        
+      }
+    ]
+  },
+  "3_social_media_signals": {
+    "trending_platforms": [],
+    "viral_mentions": [],
+    "influencer_refs": [
+      "SuperTechGuru"
+    ]
+  },
+  "4_macro_economic_and_supply_chain_news": {
+    "material_alerts": [
+      "GDDR7"
+    ],
+    "shipping_news": [
+      "AmazonGlobal Shipping",
+      "Estimated Import Charges to India"
+    ],
+    "supply_constraints": [
+      "Only 3 left in stock (ARCTIC MX-4)",
+      "In stock (ASUS Dual GeForce RTX 5060)"
+    ],
+    "regional_notes": [
+      "Pricing in INR (Indian Rupee)",
+      "Region-specific shipping and import charges for India"
+    ]
+  },
+  "5_competitor_corporate_intel": {
+    "target_product": "ASUS Dual GeForce RTX\u2122 5060 8GB GDDR7 OC Edition (PCIe 5.0, 8GB GDDR7, DLSS 4, HDMI 2.1b, DisplayPor",
+    "competitors": [
+      {
+        "name": "MSI Ventus GeForce RTX 5060 Ti 16GB GDDR7",
+        "brand": "MSI",
+        "price": "Not listed",
+        "price_numeric": null,
+        "currency": "USD",
+        "key_features": [
+          "16GB GDDR7",
+          "PCIe 5.0 x16",
+          "Ventus 2X OC cooling"
+        ],
+        "buy_link": "https://www.newegg.com/p/pl?d=rtx+5060",
+        "market_position": "A higher-tier performance alternative offering double the VRAM (16GB) compared to the 8GB ASUS Dual target product.",
+        "source": "https://www.newegg.com/p/pl?d=rtx+5060"
+      },
+      {
+        "name": "AMD RX 9060-XT",
+        "brand": "AMD",
+        "price": "Not listed",
+        "price_numeric": null,
+        "currency": "USD",
+        "key_features": [
+          "Alternative architecture to Nvidia",
+          "Competitive in effective speed benchmarks",
+          "Comparable market segment"
+        ],
+        "buy_link": "https://gpu.userbenchmark.com/Compare/Nvidia-RTX-5060-vs-AMD-RX-9060-XT/4184vsm2417253",     
+        "market_position": "A direct performance competitor from the competing GPU manufacturer frequently benchmarked against the RTX 5060 series.",
+        "source": "https://gpu.userbenchmark.com/Compare/Nvidia-RTX-5060-vs-AMD-RX-9060-XT/4184vsm2417253"        
+      }
+    ],
+    "competitive_summary": "The market for the RTX 5060 is highly competitive, featuring internal segmentation with 16GB 'Ti' variants and external pressure from AMD's RX 9060-XT. The ASUS Dual model is positioned as a budget-friendly, small form factor option, while competitors often focus on higher VRAM capacities or alternative brand-specific cooling solutions.",
+    "price_comparison_note": "Specific pricing is not currently fixed for these models; however, the ASUS Dual is marketed as a base MSRP budget-focused product, while Ti variants and higher-tier cards generally command a premium price."
+  }
+}
